@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "descripcion": "Honda Civic",
+    "chasis": "1231",
+    "motor": "2312",
+    "tipovehiculo": {
+      "id": 1,
+      "descripcion": "Camioneta",
+      "estado": false
+    },
+    "marca": {
+      "id": 1,
+      "descripcion": "Honda",
+      "estado": true
+    },
+    "modelo": {
+      "id": 1,
+      "marca": {
+        "id": 1,
+        "descripcion": "Honda",
+        "estado": true
+      },
+      "descripcion": "Civic",
+      "estado": true
+    },
+    "tipocombustible": {
+      "id": 1,
+      "descripcion": "GLP",
+      "estado": true
+    },
+    "estado": true
+  }
+]

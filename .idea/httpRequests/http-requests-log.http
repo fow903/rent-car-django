@@ -1,0 +1,394 @@
+GET http://localhost:8000/marca
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T115820.200.json
+
+###
+
+GET http://localhost:8000/inspeccion
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T113206.200.json
+
+###
+
+GET http://localhost:8000/inspeccion
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8000/inspeccion
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T113204.500.txt
+
+###
+
+GET http://localhost:8000/inspeccion
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T113131.500.txt
+
+###
+
+GET http://localhost:8000/inspeccion
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T113130.500.txt
+
+###
+
+GET http://localhost:8000/inspeccion
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T113055.500.txt
+
+###
+
+GET http://localhost:8000/inspeccion
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T112959.200.json
+
+###
+
+GET http://localhost:8000/vehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T112750.200.json
+
+###
+
+GET http://localhost:8000/vehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T112532.500.txt
+
+###
+
+GET http://localhost:8000/vehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T112337.500.txt
+
+###
+
+GET http://localhost:8000/tipoveh
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T112321.200.json
+
+###
+
+GET http://localhost:8000/tipovehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T112239.404.html
+
+###
+
+GET http://localhost:8000/tipovehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T112237.404.html
+
+###
+
+GET http://localhost:8000/vehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T112122-1.500.txt
+
+###
+
+GET http://localhost:8000/vehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T112122.500.txt
+
+###
+
+GET http://localhost:8000/vehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T112121-3.500.txt
+
+###
+
+GET http://localhost:8000/vehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T112121-2.500.txt
+
+###
+
+GET http://localhost:8000/vehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T112121-1.500.txt
+
+###
+
+GET http://localhost:8000/vehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T112121.500.txt
+
+###
+
+GET http://localhost:8000/vehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T112120-1.500.txt
+
+###
+
+GET http://localhost:8000/vehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T112120.500.txt
+
+###
+
+GET http://localhost:8000/vehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T112119-1.500.txt
+
+###
+
+GET http://localhost:8000/vehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T112119.500.txt
+
+###
+
+GET http://localhost:8000/vehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T112118.500.txt
+
+###
+
+GET http://localhost:8000/vehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T112029-1.500.txt
+
+###
+
+GET http://localhost:8000/vehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T112029.500.txt
+
+###
+
+GET http://localhost:8000/vehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T112009.500.txt
+
+###
+
+GET http://localhost:8000/vehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T111914.500.txt
+
+###
+
+GET http://localhost:8000/vehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T111823.200.json
+
+###
+
+GET http://localhost:8000/vehiculo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T111822.200.json
+
+###
+
+GET http://localhost:8000/modelo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T111635-2.200.json
+
+###
+
+GET http://localhost:8000/modelo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T111635-1.200.json
+
+###
+
+GET http://localhost:8000/modelo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T111635.200.json
+
+###
+
+GET http://localhost:8000/modelo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T111633.200.json
+
+###
+
+GET http://localhost:8000/modelo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T111247-1.200.json
+
+###
+
+GET http://localhost:8000/modelo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T111247.200.json
+
+###
+
+GET http://localhost:8000/modelo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T111242.200.json
+
+###
+
+GET http://localhost:8000/modelo
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8000/modelo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T111241.500.txt
+
+###
+
+GET http://localhost:8000/modelo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T111203.500.txt
+
+###
+
+GET http://localhost:8000/modelo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T111202.500.txt
+
+###
+
+GET http://localhost:8000/modelo
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8000/modelo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T111201.200.json
+
+###
+
+GET http://localhost:8000/modelo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T110938.200.json
+
+###
+
+GET http://localhost:8000/modelo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T110937.200.json
+
+###
+
+GET http://localhost:8000/modelo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T110831-1.200.json
+
+###
+
+GET http://localhost:8000/modelo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T110831.200.json
+
+###
+
+GET http://localhost:8000/modelo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T110830-4.200.json
+
+###
+
+GET http://localhost:8000/modelo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-18T110830-3.200.json
+
+###
+

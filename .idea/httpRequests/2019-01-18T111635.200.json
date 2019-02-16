@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "marca": {
+      "id": 1,
+      "descripcion": "Honda",
+      "estado": true
+    },
+    "descripcion": "Civic",
+    "estado": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "descripcion": "Camioneta",
+    "estado": false
+  },
+  {
+    "id": 2,
+    "descripcion": "Sedan 2",
+    "estado": true
+  },
+  {
+    "id": 3,
+    "descripcion": "asdasd",
+    "estado": true
+  }
+]

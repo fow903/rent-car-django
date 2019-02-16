@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "vehiculo": {
+      "id": 1,
+      "descripcion": "Honda Civic",
+      "chasis": "1231",
+      "motor": "2312",
+      "tipovehiculo": {
+        "id": 1,
+        "descripcion": "Camioneta",
+        "estado": false
+      },
+      "marca": {
+        "id": 1,
+        "descripcion": "Honda",
+        "estado": true
+      },
+      "modelo": {
+        "id": 1,
+        "marca": {
+          "id": 1,
+          "descripcion": "Honda",
+          "estado": true
+        },
+        "descripcion": "Civic",
+        "estado": true
+      },
+      "tipocombustible": {
+        "id": 1,
+        "descripcion": "GLP",
+        "estado": true
+      },
+      "estado": true
+    },
+    "cliente": {
+      "id": 1,
+      "nombre": "Edwin de los santos",
+      "cedula": "40224548541",
+      "tarjetacredito": "245646456316516561",
+      "limitecredito": 5000.0,
+      "tipopersona": "Fisica",
+      "estado": true
+    },
+    "empleado": {
+      "id": 1,
+      "nombre": "PEdro BOcio",
+      "cedula": "123123",
+      "tandalabor": "mat",
+      "porc_com": 15.0,
+      "fechaingreso": "2019-01-18",
+      "estado": true
+    },
+    "tiene_rayaduras": true,
+    "tiene_goma_repuesta": true,
+    "tiene_gato": true,
+    "tiene_roturas_cristal": false,
+    "estado_gomas": "4/4",
+    "fecha": "2019-01-18T15:30:46.377207Z",
+    "cantidad_combustible": "1/4",
+    "estado": true
+  }
+]
